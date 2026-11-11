@@ -2,7 +2,7 @@
 project:
   title:        "Encoder"      # Project title
   author:       "Leonel Morales De Paz"      # Your name
-  discord:      "Lmdp0411"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "L_M04"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Contador de flancos y detector de dirección del encoder de cuadratura"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     1000       # Clock frequency in Hz (or 0 if not applicable)
